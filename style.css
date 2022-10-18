@@ -18,20 +18,35 @@ body {
     margin: 1em;
 }
 
-button {
+input:hover {
+    background: black;
     cursor: pointer;
+}
+
+input {
+    width: 150px;
+    height: 30px;
+    background: #7c7c7c2b;
+    color: white;
+    border-radius: 25px;
 }
 
 .login {
     display: flex;
     align-items: center;
     justify-content: center;
+    width: 400px;
+    margin-bottom: 20px;
+	
 }
 
 .register {
     display: flex;
     align-items: center;
     justify-content: center;
+    width: 400px;
+    
+    
 }
 
 input.login {
@@ -57,5 +72,4 @@ input.register {
     font-size: 105%;
     width: calc(100% - 100px);
 }
-
 
