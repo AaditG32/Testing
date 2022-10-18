@@ -18,6 +18,10 @@ body {
     margin: 1em;
 }
 
+button {
+    cursor: pointer;
+}
+
 .login {
     display: flex;
     align-items: center;
