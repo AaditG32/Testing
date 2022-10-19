@@ -31,6 +31,93 @@ input {
     border-radius: 25px;
 }
 
+.username {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 400px;
+    margin-bottom: 20px;
+    cursor: text;
+}
+
+.log {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 400px;
+    margin-bottom: 20px;
+    cursor: text;
+}
+
+.password {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 400px;
+    margin-bottom: 20px;
+    cursor: text;
+}
+
+.name {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 400px;
+    margin-bottom: 20px;
+    cursor: text;
+}
+
+.dob {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 400px;
+    margin-bottom: 20px;
+    cursor: text;
+}
+
+.usern {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 400px;
+    margin-bottom: 20px;
+    cursor: text;
+}
+
+.passw {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 400px;
+    margin-bottom: 20px;
+    cursor: text;
+}
+
+.email {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 400px;
+    margin-bottom: 20px;
+    cursor: text;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.sub {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 400px;
+    margin-bottom: 20px;
+    cursor: text;
+}
+
+
 .login {
     display: flex;
     align-items: center;
@@ -72,4 +159,5 @@ input.register {
     font-size: 105%;
     width: calc(100% - 100px);
 }
+
 
